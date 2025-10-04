@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "productName": "Hair Cut",
+      "price": 299,
+      "image": "https://images.unsplash.com/photo-1559561850-60a4fbb9231c?q=80&w=400",
+      "quantities": 5
+    },
+    {
+      "productName": "Spa Treatment",
+      "price": 499,
+      "image": "https://images.unsplash.com/photo-1588776814546-4b06d94cdd30?q=80&w=400",
+      "quantities": 5
+    },
+    {
+      "productName": "Manicure",
+      "price": 199,
+      "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=400",
+      "quantities": 5
+    }
+  ]
+}
